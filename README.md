@@ -1,4 +1,4 @@
-# TOpsPY - Shaymaa Version
+# TOpsPY
 
 [![PyPI version fury.io](https://badge.fury.io/py/TOpsPy.svg)](https://pypi.python.org/pypi/topspy/)
 [![Downloads](https://pepy.tech/badge/topspy)](https://pepy.tech/project/topspy)
@@ -7,7 +7,7 @@
 
 
 
-**By: Bijan Sayyafzadeh (b.sayyaf@yahoo.com) and the others**
+**By: Bijan Sayyafzadeh (b.sayyaf@yahoo.com)**
 
 This module conatin my functions for openseespy and you can find the doucumentation using shift+Tab key after their name.
 
