@@ -1,5 +1,5 @@
 # By Bijan Sayyafzadeh and Saeedeh Koohestany
-
+# This is shaymaa and  I want to change itr
 proc ElePerPend  {Nodei Nodej} {
  
  set x1 [lindex [nodeCoord $Nodei] 0]

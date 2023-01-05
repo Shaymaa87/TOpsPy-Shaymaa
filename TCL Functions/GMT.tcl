@@ -1,5 +1,5 @@
 # By Bijan Sayyafzadeh and Saeedeh Koohestany
-
+# this is the second change
 proc VecProduct  {v1 v2} {
  
  set v1x  [lindex $v1 0]
